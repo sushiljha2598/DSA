@@ -1,2 +1,2 @@
 # DSA
-For Coding rounds and logical building
+For Coding rounds and logic building
